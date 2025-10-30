@@ -1,5 +1,7 @@
 # OptionFollow - 美股期权异动监控平台
 
+获取数据需要科学上网，已换至Grok实现
+
 This is the main repository for the OptionFollow project.
 
 ## Project Structure
